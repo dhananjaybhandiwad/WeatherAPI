@@ -1,0 +1,10 @@
+com\fraunhofer\weatherapi\Interface\WeatherServiceInterface.class
+com\fraunhofer\weatherapi\Entity\BaseEntity\WeatherBase.class
+com\fraunhofer\weatherapi\Entity\DerivedEntity\WeatherAPI.class
+com\fraunhofer\weatherapi\Entity\DerivedEntity\Hourly.class
+com\fraunhofer\weatherapi\Entity\DerivedEntity\HourlyUnits.class
+com\fraunhofer\weatherapi\Entity\BaseEntity\HourlyBase.class
+com\fraunhofer\weatherapi\service\WeatherService.class
+com\fraunhofer\weatherapi\WeatherApiApplication.class
+com\fraunhofer\weatherapi\controller\WeatherController.class
+com\fraunhofer\weatherapi\Entity\BaseEntity\HourlyUnitsBase.class
