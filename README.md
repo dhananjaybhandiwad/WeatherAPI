@@ -8,4 +8,4 @@
 6)The app runs on port http://localhost:8080<br>
 7)The rest-api endpoint is as follows : http://localhost:8080/weatherApi/30/40<br>
 8)The actuator is at endpoint: http://localhost:8080/actuator<br>
-9)The swagger-api is at: http://localhost:8080/swagger-ui.html<br>
+9)The swagger-ui is at: http://localhost:8080/swagger-ui.html<br>
